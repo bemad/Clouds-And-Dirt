@@ -1,2 +1,2 @@
 # Udacity Nanodegree Program for iOS Developer
-Daily Practice for Data Structures 
+My apps made for the nanodegree. 
